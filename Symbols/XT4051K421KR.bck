@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP XT4051K421KR
+D Single cell, Li-Ion/Li-Po charge management controller, 4.20V
+K battery charger lithium
+F https://datasheet.lcsc.com/szlcsc/1809140225_NATLINEAR-XT4051K421KR-G_C219186.pdf
+$ENDCMP
+#
+#End Doc Library

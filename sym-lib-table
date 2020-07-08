@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name USB-C_Connector)(type Legacy)(uri ${KIPRJMOD}/Symbols/USB-C_Connector.lib)(options "")(descr ""))
+  (lib (name XT4051K421KR)(type Legacy)(uri ${KIPRJMOD}/Symbols/XT4051K421KR.lib)(options "")(descr ""))
+)
